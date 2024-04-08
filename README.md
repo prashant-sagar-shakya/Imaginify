@@ -1,9 +1,9 @@
 # Imaginify: Image Restoration and Enhancement Platform
 
-[![GitHub stars](https://img.shields.io/github/stars/prashant162003/imaginify?style=flat-square)](https://github.com/prashant162003/imaginify/stargazers)
-[![GitHub license](https://img.shields.io/github/license/prashant162003/imaginify?style=flat-square)](https://github.com/prashant162003/imaginify/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/prashant162003/imaginify?style=flat-square)](https://github.com/prashant162003/imaginify/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/prashant162003/imaginify?style=flat-square)](https://github.com/prashant162003/imaginify/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/prashant162003/imaginify?style=flat-square)](https://github.com/prashant-sagar-shakya/imaginify/stargazers)
+[![GitHub license](https://img.shields.io/github/license/prashant162003/imaginify?style=flat-square)](https://github.com/prashant-sagar-shakya/imaginify/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/prashant162003/imaginify?style=flat-square)](https://github.com/prashant-sagar-shakya/imaginify/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/prashant162003/imaginify?style=flat-square)](https://github.com/prashant-sagar-shakya/imaginify/graphs/contributors)
 
 Welcome to Imaginify, your go-to platform for image restoration, enhancement, and manipulation! 🎨✨
 
