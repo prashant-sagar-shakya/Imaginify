@@ -19,6 +19,8 @@ Welcome to Imaginify, your go-to platform for image restoration, enhancement, an
 
 Imaginify is an innovative project that leverages advanced technologies to restore image texture, provide generative fills, recolor objects, remove unwanted objects, and seamlessly eliminate backgrounds. Whether you're a professional photographer, graphic designer, or just someone who loves playing with images, Imaginify offers powerful tools to enhance your creative projects.
 
+![Thumbnail](/Imaginify.png)
+
 ## Key Features
 
 - **Image Texture Restoration**: Restore the texture of damaged or low-quality images, bringing them back to life with enhanced clarity and detail.
