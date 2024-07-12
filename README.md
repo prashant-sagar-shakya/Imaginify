@@ -43,7 +43,7 @@ Imaginify is an innovative project that leverages advanced technologies to resto
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/prashant162003/Imaginify.git
+   git clone https://github.com/prashant-sagar-shakya/Imaginify.git
    ```
 2. Navigate into the project directory:
    ```sh
