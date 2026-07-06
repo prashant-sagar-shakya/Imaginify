@@ -1,7 +1,8 @@
 import mongoose, { Mongoose } from "mongoose";
+import dns from "dns";
 
-const MONGODB_URL =
-    "mongodb+srv://prashantsagarshakya:vwBFjy9xFoXxdy87@cluster0.dxdcshn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+// Fix for Node.js 18+ DNS resolution issues with MongoDB SRV
+dns.setDefaultResultOrder("ipv4first");
 
 interface MongooseConnection {
     conn: Mongoose | null;
@@ -19,6 +20,8 @@ if (!cached) {
 
 export const connectToDatabase = async () => {
     if (cached.conn) return cached.conn;
+
+    const MONGODB_URL = process.env.MONGODB_URL;
 
     if (!MONGODB_URL) throw new Error("Missing MONGODB_URL");
 

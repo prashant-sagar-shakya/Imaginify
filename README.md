@@ -33,7 +33,7 @@ Imaginify is an innovative project that leverages advanced technologies to resto
 
 - **Next.js**: Utilizing the power of Next.js for server-side rendering, seamless page transitions, and efficient routing, providing a smooth user experience.
 - **Clerk Authentication**: Secure user authentication powered by Clerk, ensuring a seamless and reliable login/signup process.
-- **Stripe Payment Gateway**: Integrated Stripe for secure and convenient payment processing, allowing users to access premium features or services.
+- **Razorpay Payment Gateway**: Integrated Razorpay for secure and convenient payment processing, allowing users to access premium features or services.
 - **TypeScript**: Developed with TypeScript for enhanced code quality, improved developer productivity, and better maintainability.
 - **ESLint**: Maintaining code consistency and quality standards with ESLint, ensuring clean and error-free code.
 - **Cloudinary**: Leveraging Cloudinary for image storage, transformation, and delivery, ensuring optimal performance and scalability.
